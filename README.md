@@ -1,6 +1,6 @@
-# Regular $K_3$ regular graphs 
+# Regular $K_3$-regular graphs 
 
-Below, we add the adjacent matrices for the special cases.
+Below, we add the adjacent matrix for the special cases.
 
 
 Here is an adjacency matrix for $G_2$ with parameters $(r_2, r_3) = (6, 8)$.
